@@ -1,0 +1,4 @@
+SQLite format 3@  .8
+����HutablechatchatCREATE TABLE chat (key text PRIMARY KEY, value text)';indexsqlite_autoindex_chat_1chat
+
+
